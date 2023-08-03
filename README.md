@@ -1,1 +1,2 @@
 # reboot_privacy
+help
